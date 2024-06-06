@@ -1,0 +1,23 @@
+body {
+    margin: 5px;
+    min-width: 400px;
+  }
+  
+  #input-el {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  #save-el {
+    padding: 10px 20px;
+  }
+  ul {
+    list-style: none;
+    padding-left: 0
+  }
+  #del-el{
+    padding: 10px 20px;
+  }
+  
